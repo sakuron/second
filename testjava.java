@@ -3,4 +3,5 @@ public static void main args[] {
   for (i = 0; i < 10; i++) {
     System.out.println(i + "回目のループ");
   }
+  System.out.println(10+10);
 }
